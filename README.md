@@ -25,7 +25,7 @@ VisDrone2019-DET dataset
     
     valset (0.07 GB):  BaiduYun | GoogleDrive
     
-    testset-dev (- GB):   BaiduYun | GoogleDrive
+    testset-dev (- GB):   BaiduYun(https://pan.baidu.com/s/1AVKf1enjUGW1mMQhepB7Bg) | GoogleDrive
     
     testset-challenge (0.28 GB): BaiduYun | GoogleDrive
     
@@ -41,7 +41,7 @@ VisDrone2019-VID dataset
     
     valset (1.48 GB):  BaiduYun | GoogleDrive
     
-    testset-dev (- GB):  BaiduYun | GoogleDrive
+    testset-dev (- GB):  [BaiduYun](https://pan.baidu.com/s/1KCE2Ocz7LKSFruA5IIJH9A) | GoogleDrive
     
     testset-challenge (2.70 GB):  BaiduYun | GoogleDrive 
     
@@ -59,7 +59,7 @@ VisDrone2019-SOT dataset
     
     valset (1.29 GB):   BaiduYun | GoogleDrive
     
-    testset-dev (- GB):  BaiduYun | GoogleDrive
+    testset-dev (- GB):  [BaiduYun](https://pan.baidu.com/s/1lgWGyKlU8EB3roMEZuzMBQ) | GoogleDrive
     
     testset-challenge_part1 (17.40 GB):  BaiduYun(Password:e4xz) | GoogleDrive
     
@@ -79,7 +79,7 @@ VisDrone2019-MOT dataset
     
     valset (1.48 GB):  BaiduYun | GoogleDrive
     
-    testset-dev (- GB):  BaiduYun | GoogleDrive
+    testset-dev (- GB):  [BaiduYun](https://pan.baidu.com/s/1OUV9hY54-3D76_2ZMF6jRQ) | GoogleDrive
     
     testset-challenge (2.70 GB):  BaiduYun | GoogleDrive
     
