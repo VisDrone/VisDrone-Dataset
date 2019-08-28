@@ -15,6 +15,7 @@ The challenge mainly focuses on four tasks:
 
 
 Download
+
 Task 1: Object Detection in Images 
 
 VisDrone2019-DET dataset
