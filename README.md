@@ -18,7 +18,7 @@ The challenge mainly focuses on four tasks:
 ### Task 1: Object Detection in Images 
 
 VisDrone2019-DET dataset
-[我的博客](http://blog.csdn.net/guodongxiaren)
+[我的博客](https://pan.baidu.com/s/1rHwQKNsgVnqddUxxZwPk2g)
 
     trainset (1.44 GB): [BaiduYun](https://pan.baidu.com/s/1rHwQKNsgVnqddUxxZwPk2g)| GoogleDrive
     
