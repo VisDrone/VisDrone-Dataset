@@ -15,7 +15,7 @@ The challenge mainly focuses on four tasks:
 
 ## Download
 
-Task 1: Object Detection in Images 
+### Task 1: Object Detection in Images 
 
 VisDrone2019-DET dataset
 
@@ -31,7 +31,7 @@ VisDrone2019-DET toolkit:
 
     Matlab beta
 
-Task 2: Object Detection in Videos
+### Task 2: Object Detection in Videos
 
 VisDrone2019-VID dataset
 
@@ -47,7 +47,7 @@ VisDrone2019-VID toolkit:
 
     Matlab beta
 
-Task 3: Single-Object Tracking 
+### Task 3: Single-Object Tracking 
 
 VisDrone2019-SOT dataset
 
@@ -69,7 +69,7 @@ VisDrone2019-SOT toolkit:
 
     Matlab beta
     
-Task 4: Multi-Object Tracking 
+### Task 4: Multi-Object Tracking 
 
 VisDrone2019-MOT dataset
 
