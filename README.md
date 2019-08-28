@@ -9,3 +9,54 @@ The challenge mainly focuses on four tasks:
 (3) Task 3: single-object tracking challenge. The task aims to estimate the state of a target, indicated in the first frame, in the subsequent video frames.
 (4) Task 4: multi-object tracking challenge. The task aims to recover the trajectories of objects in each video frame.
 
+
+Download
+Task 1: Object Detection in Images 
+VisDrone2019-DET dataset
+    trainset (1.44 GB): BaiduYun | GoogleDrive
+    valset (0.07 GB):  BaiduYun | GoogleDrive
+    testset-dev (- GB):   BaiduYun | GoogleDrive
+    testset-challenge (0.28 GB): BaiduYun | GoogleDrive
+VisDrone2019-DET toolkit: 
+    Matlab beta
+
+Task 2: Object Detection in Videos
+VisDrone2019-VID dataset
+    trainset (7.53 GB):  BaiduYun | GoogleDrive
+    valset (1.48 GB):  BaiduYun | GoogleDrive
+    testset-dev (- GB):  BaiduYun | GoogleDrive
+    testset-challenge (2.70 GB):  BaiduYun | GoogleDrive 
+VisDrone2019-VID toolkit: 
+    Matlab beta
+
+Task 3: Single-Object Tracking 
+VisDrone2019-SOT dataset
+    trainset_part1 (7.78 GB):   BaiduYun | GoogleDrive
+    trainset_part2 (12.59 GB):  BaiduYun | GoogleDrive
+    valset (1.29 GB):   BaiduYun | GoogleDrive
+    testset-dev (- GB):  BaiduYun | GoogleDrive
+    testset-challenge_part1 (17.40 GB):  BaiduYun(Password:e4xz) | GoogleDrive
+    testset-challenge_part2 (17.31 GB):  BaiduYun(Password:91p4) | GoogleDrive
+    testset-challenge_initialization:  BaiduYun(Password:xfs4) | GoogleDrive
+VisDrone2019-SOT toolkit: 
+    Matlab beta
+    
+Task 4: Multi-Object Tracking 
+VisDrone2019-MOT dataset
+    trainset (7.53 GB):  BaiduYun | GoogleDrive 
+    valset (1.48 GB):  BaiduYun | GoogleDrive
+    testset-dev (- GB):  BaiduYun | GoogleDrive
+    testset-challenge (2.70 GB):  BaiduYun | GoogleDrive
+VisDrone2019-MOT toolkit: 
+    Matlab beta
+
+
+Citation 
+@article{zhu2018vision,
+  title={Vision meets drones: A challenge},
+  author={Zhu, Pengfei and Wen, Longyin and Bian, Xiao and Ling, Haibin and Hu, Qinghua},
+  journal={arXiv preprint arXiv:1804.07437},
+  year={2018}
+}
+
+
