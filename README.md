@@ -13,7 +13,7 @@ The challenge mainly focuses on four tasks:
 (4) Task 4: multi-object tracking challenge. The task aims to recover the trajectories of objects in each video frame.
 
 
-Download
+## Download
 
 Task 1: Object Detection in Images 
 
@@ -86,7 +86,7 @@ VisDrone2019-MOT toolkit:
     Matlab beta
 
 
-Citation 
+## Citation 
 
 @article{zhu2018vision,
 
