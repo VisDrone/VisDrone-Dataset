@@ -19,7 +19,7 @@ The challenge mainly focuses on four tasks:
 
 VisDrone2019-DET dataset
 
-    trainset (1.44 GB): [BaiduYun](https://pan.baidu.com/s/1rHwQKNsgVnqddUxxZwPk2g)| GoogleDrive
+    trainset (1.44 GB): ![BaiduYun](https://pan.baidu.com/s/1rHwQKNsgVnqddUxxZwPk2g)| GoogleDrive
     
     valset (0.07 GB):  BaiduYun | GoogleDrive
     
