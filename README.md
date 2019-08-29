@@ -21,29 +21,29 @@ The challenge mainly focuses on four tasks:
 
 VisDrone2019-DET dataset
 
-* trainset (1.44 GB): [BaiduYun](https://pan.baidu.com/s/1Sk9zxNJW9i74FsLgY9TRBQ) | GoogleDrive
+* trainset (1.44 GB): [BaiduYun](https://pan.baidu.com/s/1K-JtLnlHw98UuBDrYJvw3A) | GoogleDrive
     
-* valset (0.07 GB):  [BaiduYun](https://pan.baidu.com/s/10Zukcu1n9zAUxME6f237pQ) | GoogleDrive
+* valset (0.07 GB):  [BaiduYun](https://pan.baidu.com/s/1jdK_dAxRJeF2Xi50IoML1g) | GoogleDrive
     
-* testset-dev (0.28 GB): [BaiduYun](https://pan.baidu.com/s/1f2WHKciM8sz9fqzhzUSWLA) | GoogleDrive
+* testset-dev (0.28 GB): [BaiduYun](https://pan.baidu.com/s/1RdRfSWV-1IFK7aWljLU_LQ) | GoogleDrive
     
-* testset-challenge (0.28 GB): [BaiduYun](https://pan.baidu.com/s/1ENU3jYl4TzLXNvD2rUHH3w) | GoogleDrive
+* testset-challenge (0.28 GB): [BaiduYun](https://pan.baidu.com/s/1lvEkCgy1WWK4B7TLki4yBQ) | GoogleDrive
     
 VisDrone2019-DET toolkit: 
 
-    Matlab beta
+ Matlab beta
 
 ### Task 2: Object Detection in Videos
 
 VisDrone2019-VID dataset
 
-    trainset (7.53 GB):  BaiduYun | GoogleDrive
+* trainset (7.53 GB):  [BaiduYun](https://pan.baidu.com/s/1kC3NTK6MPVv3D1CY9gXaCQ) | GoogleDrive
     
-    valset (1.48 GB):  BaiduYun | GoogleDrive
+* valset (1.49 GB):  [BaiduYun](https://pan.baidu.com/s/12-A6Mg1Gg7hyS4WwG27dDw) | GoogleDrive
     
-    testset-dev (- GB):  [BaiduYun](https://pan.baidu.com/s/1KCE2Ocz7LKSFruA5IIJH9A) | GoogleDrive
+* testset-dev (2.14 GB):  [BaiduYun](https://pan.baidu.com/s/1r1P5aJ1zOlQH_58LfYFzQQ) | GoogleDrive
     
-    testset-challenge (2.70 GB):  BaiduYun | GoogleDrive 
+* testset-challenge (2.70 GB):  [BaiduYun](https://pan.baidu.com/s/1ew6B-kvKV9yv__onnjA4dQ) | GoogleDrive 
     
 VisDrone2019-VID toolkit: 
 
@@ -53,19 +53,19 @@ VisDrone2019-VID toolkit:
 
 VisDrone2019-SOT dataset
 
-    trainset_part1 (7.78 GB):   BaiduYun | GoogleDrive
+* trainset_part1 (7.78 GB):   [BaiduYun](https://pan.baidu.com/s/1obWeT5DvBkTuBmO1NlSQ-Q) | GoogleDrive
     
-    trainset_part2 (12.59 GB):  BaiduYun | GoogleDrive
+* trainset_part2 (12.59 GB):  [BaiduYun](https://pan.baidu.com/s/1c6iZeMJUXOIERxFJJ6B0jw) | GoogleDrive
     
-    valset (1.29 GB):   BaiduYun | GoogleDrive
+* valset (1.29 GB):   [BaiduYun](https://pan.baidu.com/s/1WTWx4iyf33lnIyRu2uP_Hg) | GoogleDrive
     
-    testset-dev (- GB):  [BaiduYun](https://pan.baidu.com/s/1lgWGyKlU8EB3roMEZuzMBQ) | GoogleDrive
+* testset-dev (11.27 GB):  [BaiduYun](https://pan.baidu.com/s/18j3umaWR_1fFy2ISOe9dGg) | GoogleDrive
     
-    testset-challenge_part1 (17.40 GB):  BaiduYun(Password:e4xz) | GoogleDrive
+* testset-challenge_part1 (17.40 GB):  [BaiduYun](https://pan.baidu.com/s/14eWyaisDeciip-4_B14law) | GoogleDrive
     
-    testset-challenge_part2 (17.31 GB):  BaiduYun(Password:91p4) | GoogleDrive
+* testset-challenge_part2 (17.31 GB):  [BaiduYun](https://pan.baidu.com/s/1WDQ4JD5eLfRy-KVNyvKPig) | GoogleDrive
     
-    testset-challenge_initialization:  BaiduYun(Password:xfs4) | GoogleDrive
+* testset-challenge_initialization(258 KB):  [BaiduYun](https://pan.baidu.com/s/1hvY0LXjTeuF8r-VVvVX1OQ) | GoogleDrive
     
 VisDrone2019-SOT toolkit: 
 
@@ -75,13 +75,13 @@ VisDrone2019-SOT toolkit:
 
 VisDrone2019-MOT dataset
 
-    trainset (7.53 GB):  BaiduYun | GoogleDrive
+* trainset (7.53 GB):  [BaiduYun](https://pan.baidu.com/s/16BtpKNWi0cEk8WUtfzpEHQ) | GoogleDrive
     
-    valset (1.48 GB):  BaiduYun | GoogleDrive
+* valset (1.48 GB):  [BaiduYun](https://pan.baidu.com/s/1wTWFpHw4uLXPVCp1m5fQNQ) | GoogleDrive
     
-    testset-dev (- GB):  [BaiduYun](https://pan.baidu.com/s/1OUV9hY54-3D76_2ZMF6jRQ) | GoogleDrive
+* testset-dev (2.14 GB):  [BaiduYun](https://pan.baidu.com/s/1_gLvMxkMKb3RZjGyZv7btQ) | GoogleDrive
     
-    testset-challenge (2.70 GB):  BaiduYun | GoogleDrive
+* testset-challenge (2.70 GB):  [BaiduYun](https://pan.baidu.com/s/1xIloIRSj1FtcEoWI9esn7w) | GoogleDrive
     
 VisDrone2019-MOT toolkit:
 
