@@ -21,13 +21,13 @@ The challenge mainly focuses on four tasks:
 
 VisDrone2019-DET dataset
 
-    trainset (1.44 GB): [BaiduYun](https://pan.baidu.com/s/1rHwQKNsgVnqddUxxZwPk2g) | GoogleDrive
+trainset (1.44 GB): [BaiduYun](https://pan.baidu.com/s/1rHwQKNsgVnqddUxxZwPk2g) | GoogleDrive
     
-    valset (0.07 GB):  BaiduYun | GoogleDrive
+valset (0.07 GB):  BaiduYun | GoogleDrive
     
-    testset-dev (- GB):   BaiduYun(https://pan.baidu.com/s/1AVKf1enjUGW1mMQhepB7Bg) | GoogleDrive
+testset-dev (- GB):   BaiduYun(https://pan.baidu.com/s/1AVKf1enjUGW1mMQhepB7Bg) | GoogleDrive
     
-    testset-challenge (0.28 GB): BaiduYun | GoogleDrive
+testset-challenge (0.28 GB): BaiduYun | GoogleDrive
     
 VisDrone2019-DET toolkit: 
 
