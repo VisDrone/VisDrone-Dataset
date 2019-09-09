@@ -25,7 +25,7 @@ VisDrone2019-DET dataset
     
 * valset (0.07 GB):  [BaiduYun](https://pan.baidu.com/s/1jdK_dAxRJeF2Xi50IoML1g) | [GoogleDrive](https://drive.google.com/file/d/1bxK5zgLn0_L8x276eKkuYA_FzwCIjb59/view?usp=sharing)
     
-* testset-dev (0.28 GB): [BaiduYun](https://pan.baidu.com/s/1RdRfSWV-1IFK7aWljLU_LQ) | GoogleDrive
+* testset-dev (0.28 GB): [BaiduYun](https://pan.baidu.com/s/1RdRfSWV-1IFK7aWljLU_LQ) | [GoogleDrive](https://drive.google.com/open?id=1bxK5zgLn0_L8x276eKkuYA_FzwCIjb59)
     
 * testset-challenge (0.28 GB): [BaiduYun](https://pan.baidu.com/s/1lvEkCgy1WWK4B7TLki4yBQ) | [GoogleDrive](https://drive.google.com/file/d/1KN8R3oioOvSXH492GEVk-Hx74nWHAcXT/view?usp=sharing)
     
@@ -41,7 +41,7 @@ VisDrone2019-VID dataset
     
 * valset (1.49 GB):  [BaiduYun](https://pan.baidu.com/s/12-A6Mg1Gg7hyS4WwG27dDw) | [GoogleDrive](https://drive.google.com/file/d/1xuG7Z3IhVfGGKMe3Yj6RnrFHqo_d2a1B/view?usp=sharing)
     
-* testset-dev (2.14 GB):  [BaiduYun](https://pan.baidu.com/s/1r1P5aJ1zOlQH_58LfYFzQQ) | GoogleDrive
+* testset-dev (2.14 GB):  [BaiduYun](https://pan.baidu.com/s/1r1P5aJ1zOlQH_58LfYFzQQ) | [GoogleDrive](https://drive.google.com/open?id=1-BEq--FcjshTF1UwUabby_LHhYj41os5)
     
 * testset-challenge (2.70 GB):  [BaiduYun](https://pan.baidu.com/s/1ew6B-kvKV9yv__onnjA4dQ) | [GoogleDrive](https://drive.google.com/file/d/1Qwyp_cEpGyXGqJ8IbusEzuNHgbM403NP/view?usp=sharing) 
     
@@ -59,7 +59,7 @@ VisDrone2019-SOT dataset
     
 * valset (1.29 GB):   [BaiduYun](https://pan.baidu.com/s/1WTWx4iyf33lnIyRu2uP_Hg) | [GoogleDrive](https://drive.google.com/file/d/18SNAOlCJtApnG2m45ud-1e_OtGYill0D/view?usp=sharing)
     
-* testset-dev (11.27 GB):  [BaiduYun](https://pan.baidu.com/s/18j3umaWR_1fFy2ISOe9dGg) | GoogleDrive
+* testset-dev (11.27 GB):  [BaiduYun](https://pan.baidu.com/s/18j3umaWR_1fFy2ISOe9dGg) | [GoogleDrive](https://drive.google.com/open?id=1xCiHjU4JlR9QsYtiHYy2UUd3m6NthoBC)
     
 * testset-challenge_part1 (17.40 GB):  [BaiduYun](https://pan.baidu.com/s/14eWyaisDeciip-4_B14law) | [GoogleDrive](https://drive.google.com/file/d/1zxMLZrkkz4BkufbaDXQVMpDz-PRpPpxs/view?usp=sharing)
     
@@ -79,7 +79,7 @@ VisDrone2019-MOT dataset
     
 * valset (1.48 GB):  [BaiduYun](https://pan.baidu.com/s/1wTWFpHw4uLXPVCp1m5fQNQ) | [GoogleDrive](https://drive.google.com/file/d/1rqnKe9IgU_crMaxRoel9_nuUsMEBBVQu/view?usp=sharing)
     
-* testset-dev (2.14 GB):  [BaiduYun](https://pan.baidu.com/s/1_gLvMxkMKb3RZjGyZv7btQ) | GoogleDrive
+* testset-dev (2.14 GB):  [BaiduYun](https://pan.baidu.com/s/1_gLvMxkMKb3RZjGyZv7btQ) | [GoogleDrive](https://drive.google.com/open?id=14z8Acxopj1d86-qhsF1NwS4Bv3KYa4Wu)
     
 * testset-challenge (2.70 GB):  [BaiduYun](https://pan.baidu.com/s/1xIloIRSj1FtcEoWI9esn7w) | [GoogleDrive](https://drive.google.com/file/d/1I0nn6dVKctzDE5YJ3q9qOlhKLiSIDAxF/view?usp=sharing)
     
