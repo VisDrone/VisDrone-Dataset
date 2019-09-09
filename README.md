@@ -25,7 +25,7 @@ VisDrone2019-DET dataset
     
 * valset (0.07 GB):  [BaiduYun](https://pan.baidu.com/s/1jdK_dAxRJeF2Xi50IoML1g) | [GoogleDrive](https://drive.google.com/file/d/1bxK5zgLn0_L8x276eKkuYA_FzwCIjb59/view?usp=sharing)
     
-* testset-dev (0.28 GB): [BaiduYun](https://pan.baidu.com/s/1RdRfSWV-1IFK7aWljLU_LQ) | [GoogleDrive](https://drive.google.com/open?id=1bxK5zgLn0_L8x276eKkuYA_FzwCIjb59)
+* testset-dev (0.28 GB): [BaiduYun](https://pan.baidu.com/s/1RdRfSWV-1IFK7aWljLU_LQ) | [GoogleDrive](https://drive.google.com/open?id=1PFdW_VFSCfZ_sTSZAGjQdifF_Xd5mf0V)
     
 * testset-challenge (0.28 GB): [BaiduYun](https://pan.baidu.com/s/1lvEkCgy1WWK4B7TLki4yBQ) | [GoogleDrive](https://drive.google.com/file/d/1KN8R3oioOvSXH492GEVk-Hx74nWHAcXT/view?usp=sharing)
     
