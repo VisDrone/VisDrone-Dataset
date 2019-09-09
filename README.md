@@ -65,7 +65,7 @@ VisDrone2019-SOT dataset
     
 * testset-challenge_part2 (17.31 GB):  [BaiduYun](https://pan.baidu.com/s/1WDQ4JD5eLfRy-KVNyvKPig) | [GoogleDrive](https://drive.google.com/file/d/13J_9rwpf2TpVVsWgzMUv4uCxpOKDNbef/view?usp=sharing)
     
-* testset-challenge_initialization(258 KB):  [BaiduYun](https://pan.baidu.com/s/1hvY0LXjTeuF8r-VVvVX1OQ) | [GoogleDrive](https://drive.google.com/file/d/1z7lQ0co8Dcu-ZojMN7dnIxn-i6QbGNL4/view?usp=sharing)
+* testset-challenge_initialization(12 KB):  [BaiduYun](https://pan.baidu.com/s/1hvY0LXjTeuF8r-VVvVX1OQ) | [GoogleDrive](https://drive.google.com/file/d/1z7lQ0co8Dcu-ZojMN7dnIxn-i6QbGNL4/view?usp=sharing)
     
 VisDrone2019-SOT toolkit: 
 
