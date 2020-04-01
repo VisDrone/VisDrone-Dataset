@@ -14,6 +14,7 @@ The challenge mainly focuses on four tasks:
 
 (4) Task 4: multi-object tracking challenge. The task aims to recover the trajectories of objects in each video frame.
 
+(4) Task 5: crowd counting challenge. The task aims to to count persons in each video frame.
 
 ## Download
 
@@ -88,6 +89,10 @@ VisDrone2019-MOT dataset
 VisDrone2019-MOT toolkit:
 
 * [Matlab beta](https://github.com/VisDrone/VisDrone2018-MOT-toolkit)
+
+### Task 5: Crowd Counting 
+
+VisDrone2020-Crowd dataset
 
 
 ## Citation 
