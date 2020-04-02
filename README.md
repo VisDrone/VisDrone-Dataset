@@ -92,7 +92,8 @@ VisDrone2019-MOT toolkit:
 
 ### Task 5: Crowd Counting 
 
-VisDrone2020-Crowd dataset
+ECCV2020 Challenge 
+DroneCrowd (1.03 GB): [BaiduYun](https://pan.baidu.com/share/init?surl=llJZJMi2L5oUQvj31iBlfg)(code: h0j8)| GoogleDrive
 
 
 ## Citation 
