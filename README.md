@@ -14,7 +14,7 @@ The challenge mainly focuses on four tasks:
 
 (4) Task 4: multi-object tracking challenge. The task aims to recover the trajectories of objects in each video frame.
 
-(4) Task 5: crowd counting challenge. The task aims to to count persons in each video frame.
+(5) Task 5: crowd counting challenge. The task aims to to count persons in each video frame.
 
 ## Download
 
@@ -93,7 +93,8 @@ VisDrone2019-MOT toolkit:
 ### Task 5: Crowd Counting 
 
 ECCV2020 Challenge 
-DroneCrowd (1.03 GB): [BaiduYun](https://pan.baidu.com/share/init?surl=llJZJMi2L5oUQvj31iBlfg)(code: h0j8)| GoogleDrive
+DroneCrowd (1.03 GB): [BaiduYun](https://pan.baidu.com/share/init?surl=llJZJMi2L5oUQvj31iBlfg)(code: h0j8)| 
+[GoogleDrive](https://pan.baidu.com/share/init?surl=llJZJMi2L5oUQvj31iBlfg)
 
 
 ## Citation 
