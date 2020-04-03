@@ -94,7 +94,7 @@ VisDrone2019-MOT toolkit:
 
 ECCV2020 Challenge 
 DroneCrowd (1.03 GB): [BaiduYun](https://pan.baidu.com/share/init?surl=llJZJMi2L5oUQvj31iBlfg)(code: h0j8)| 
-[GoogleDrive](https://pan.baidu.com/share/init?surl=llJZJMi2L5oUQvj31iBlfg)
+[GoogleDrive](https://drive.google.com/file/d/1HY3V4QObrVjzXUxL_J86oxn2bi7FMUgd/view?usp=sharing)
 
 
 ## Citation 
