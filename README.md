@@ -98,7 +98,7 @@ DroneCrowd (1.03 GB): [BaiduYun](https://pan.baidu.com/share/init?surl=llJZJMi2L
 
 
 ## Citation 
-、、、
+```
 @ARTICLE{9573394,
   author={Zhu, Pengfei and Wen, Longyin and Du, Dawei and Bian, Xiao and Fan, Heng and Hu, Qinghua and Ling, Haibin},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
@@ -108,4 +108,4 @@ DroneCrowd (1.03 GB): [BaiduYun](https://pan.baidu.com/share/init?surl=llJZJMi2L
   number={},
   pages={1-1},
   doi={10.1109/TPAMI.2021.3119563}}
-  、、、
+ ```
