@@ -98,26 +98,14 @@ DroneCrowd (1.03 GB): [BaiduYun](https://pan.baidu.com/share/init?surl=llJZJMi2L
 
 
 ## Citation 
-
-@article{zhu2018vision,
-
-  title={Vision meets drones: A challenge},
-  
-  author={Zhu, Pengfei and Wen, Longyin and Bian, Xiao and Ling, Haibin and Hu, Qinghua},
-  
-  journal={arXiv preprint arXiv:1804.07437},
-  
-  year={2018}
-}
-
-
-@article{zhu2020vision,
-
-  title={Vision Meets Drones: Past, Present and Future},
-  
-  author={Zhu, Pengfei and Wen, Longyin and Du, Dawei and Bian, Xiao and Hu, Qinghua and Ling, Haibin},
-  
-  journal={arXiv preprint arXiv:2001.06303},
-  
-  year={2020}
-}
+、、、
+@ARTICLE{9573394,
+  author={Zhu, Pengfei and Wen, Longyin and Du, Dawei and Bian, Xiao and Fan, Heng and Hu, Qinghua and Ling, Haibin},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Detection and Tracking Meet Drones Challenge}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TPAMI.2021.3119563}}
+  、、、
