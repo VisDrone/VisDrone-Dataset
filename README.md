@@ -106,16 +106,27 @@ Then, load the dataset:
 
 ```py
 import hub
-ds = hub.load("hub://activeloop/visdrone-det-dataset")
+# Load training subset
+ds_train = hub.load("hub://activeloop/visdrone-det-train")
 
-# The tensor layout for this dataset can be inspected using:
-ds.summary()
-# The dataset can be also be visualized in the Activeloop 
+# Load testing subset
+ds_test = hub.load("hub://activeloop/visdrone-det-test")
+
+# Load validation subset
+ds_val = hub.load("hub://activeloop/visdrone-det-val")
+
+# Load testing-dev subset
+ds_test_dev = hub.load("hub://activeloop/visdrone-det-test-dev")
+
+# The tensor layout for any dataset can be inspected using:
+ds_train.summary()
+
+# Datasets can be also be visualized in the Activeloop 
 # Platform, or using an iframe in a jupyter notebook:
-ds.visualize()
+ds_train.visualize()
 ```
 
-For more information, please check out the [Hub Documentation](https://docs.activeloop.ai)!
+For more information, please check out the [Hub Documentation](https://docs.activeloop.ai). Specific information about this dataset in Hub can also be found [here](https://docs.activeloop.ai/datasets/visdrone-det-dataset)!
 
 ## Citation 
 ```
