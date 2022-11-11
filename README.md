@@ -22,7 +22,7 @@ Note that the bounding box annotations of test-dev are avalialbe. Researchers ca
 
 ### Task 1: Object Detection in Images 
 
-VisDrone2019-DET dataset
+VisDrone-DET dataset
 
 * trainset (1.44 GB): [BaiduYun](https://pan.baidu.com/s/1K-JtLnlHw98UuBDrYJvw3A) | [GoogleDrive](https://drive.google.com/file/d/1a2oHjcEcwXP8oUF95qiwrqzACb2YlUhn/view?usp=sharing)
     
@@ -32,13 +32,13 @@ VisDrone2019-DET dataset
     
 * testset-challenge (0.28 GB): [BaiduYun](https://pan.baidu.com/s/1lvEkCgy1WWK4B7TLki4yBQ) | [GoogleDrive](https://drive.google.com/file/d/1KN8R3oioOvSXH492GEVk-Hx74nWHAcXT/view?usp=sharing)
     
-VisDrone2019-DET toolkit: 
+VisDrone-DET toolkit: 
 
 * [Matlab beta](https://github.com/VisDrone/VisDrone2018-DET-toolkit)
 
 ### Task 2: Object Detection in Videos
 
-VisDrone2019-VID dataset
+VisDrone-VID dataset
 
 * trainset (7.53 GB):  [BaiduYun](https://pan.baidu.com/s/1kC3NTK6MPVv3D1CY9gXaCQ) | [GoogleDrive](https://drive.google.com/file/d/1NSNapZQHar22OYzQYuXCugA3QlMndzvw/view?usp=sharing)
     
@@ -48,13 +48,13 @@ VisDrone2019-VID dataset
     
 * testset-challenge (2.70 GB):  [BaiduYun](https://pan.baidu.com/s/1ew6B-kvKV9yv__onnjA4dQ) | [GoogleDrive](https://drive.google.com/file/d/1Qwyp_cEpGyXGqJ8IbusEzuNHgbM403NP/view?usp=sharing) 
     
-VisDrone2019-VID toolkit: 
+VisDrone-VID toolkit: 
 
 * [Matlab beta](https://github.com/VisDrone/VisDrone2018-VID-toolkit)
 
 ### Task 3: Single-Object Tracking 
 
-VisDrone2019-SOT dataset
+VisDrone-SOT dataset
 
 * trainset_part1 (7.78 GB):   [BaiduYun](https://pan.baidu.com/s/1obWeT5DvBkTuBmO1NlSQ-Q) | [GoogleDrive](https://drive.google.com/file/d/1a-AmQjYATzj8seXLlEm9Sx8aQmClrJka/view?usp=sharing)
     
@@ -70,13 +70,13 @@ VisDrone2019-SOT dataset
     
 * testset-challenge_initialization(12 KB):  [BaiduYun](https://pan.baidu.com/s/1hvY0LXjTeuF8r-VVvVX1OQ) | [GoogleDrive](https://drive.google.com/file/d/1z7lQ0co8Dcu-ZojMN7dnIxn-i6QbGNL4/view?usp=sharing)
     
-VisDrone2019-SOT toolkit: 
+VisDrone-SOT toolkit: 
 
 * [Matlab beta](https://github.com/VisDrone/VisDrone2018-SOT-toolkit)
     
 ### Task 4: Multi-Object Tracking 
 
-VisDrone2019-MOT dataset
+VisDrone-MOT dataset
 
 * trainset (7.53 GB):  [BaiduYun](https://pan.baidu.com/s/16BtpKNWi0cEk8WUtfzpEHQ) | [GoogleDrive](https://drive.google.com/file/d/1-qX2d-P1Xr64ke6nTdlm33om1VxCUTSh/view?usp=sharing)
     
@@ -86,7 +86,7 @@ VisDrone2019-MOT dataset
     
 * testset-challenge (2.70 GB):  [BaiduYun](https://pan.baidu.com/s/1xIloIRSj1FtcEoWI9esn7w) | [GoogleDrive](https://drive.google.com/file/d/1I0nn6dVKctzDE5YJ3q9qOlhKLiSIDAxF/view?usp=sharing)
     
-VisDrone2019-MOT toolkit:
+VisDrone-MOT toolkit:
 
 * [Matlab beta](https://github.com/VisDrone/VisDrone2018-MOT-toolkit)
 
