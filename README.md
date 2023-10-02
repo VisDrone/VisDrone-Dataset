@@ -96,6 +96,37 @@ ECCV2020 Challenge
 DroneCrowd (1.03 GB): [BaiduYun](https://pan.baidu.com/share/init?surl=llJZJMi2L5oUQvj31iBlfg)(code: h0j8)| 
 [GoogleDrive](https://drive.google.com/file/d/1HY3V4QObrVjzXUxL_J86oxn2bi7FMUgd/view?usp=sharing)
 
+## How to Use with Hub
+
+A simple way of using this dataset is with [Activeloop](https://activeloop.ai)'s Python package [Hub](https://github.com/activeloopai/Hub), an open-source dataset format for AI that enables you to stream machine learning datasets while training machine learning models!
+
+First, run `pip install hub` (or `pip3 install hub`).
+
+Then, load the dataset:
+
+```py
+import hub
+# Load training subset
+ds_train = hub.load("hub://activeloop/visdrone-det-train")
+
+# Load testing subset
+ds_test = hub.load("hub://activeloop/visdrone-det-test")
+
+# Load validation subset
+ds_val = hub.load("hub://activeloop/visdrone-det-val")
+
+# Load testing-dev subset
+ds_test_dev = hub.load("hub://activeloop/visdrone-det-test-dev")
+
+# The tensor layout for any dataset can be inspected using:
+ds_train.summary()
+
+# Datasets can be also be visualized in the Activeloop 
+# Platform, or using an iframe in a jupyter notebook:
+ds_train.visualize()
+```
+
+For more information, please check out the [Hub Documentation](https://docs.activeloop.ai). Specific information about this dataset in Hub can also be found [here](https://docs.activeloop.ai/datasets/visdrone-det-dataset)!
 
 ## Citation 
 ```
